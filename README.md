@@ -86,9 +86,8 @@ MLA-PRJ-23-PROJECT-AM04/
 │   ├── VAEs/                      # Variational Autoencoders (VAEs) and Conditional Variational Autoencoders (CVAEs)
 │   └── SinGAN/                    # Single-image GAN
 │
-├── images/                        # Dataset storage
-│   ├── original/                  # Original images
-│   └── augmented/                 # Augmented images grouped by method
+├── images/
+│   └── original/                  # Original images
 │
 ├── metrics/                       # Metric computation scripts and results
 │
