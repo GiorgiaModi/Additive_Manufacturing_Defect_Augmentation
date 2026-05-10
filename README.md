@@ -1,9 +1,8 @@
+# Dataset Augmentation for Additive Manufacturing Defect Detection
 
-# 2025/AM04 – Dataset Augmentation for Additive Manufacturing defect detection
+This project focuses on the use of generative models for data augmentation in the context of defect detection for Additive Manufacturing (AM) processes.
 
-This project, titled **"Dataset Augmentation for Additive Manufacturing Defect Detection"** (2025/AM04), was developed for the *Machine Learning in Applications* course at Politecnico di Torino. Our team is identified as group **2025/AM01**.
-
-The aim of this work is to explore and implement data augmentation techniques based on generative models to enhance defect detection in Additive Manufacturing processes.
+The main objective is to explore and implement advanced generative techniques to synthesize realistic defect images, addressing the common issue of limited and imbalanced datasets in industrial inspection tasks. By augmenting the available data, the project aims to improve the performance and generalization capability of defect detection models.
 
 ---
 
